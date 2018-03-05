@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/cardview_light_background"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/store_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:padding="6dp"
+        android:src="@drawable/online_store"
+        app:civ_border_color="#f1f1f1"
+        app:civ_border_width="1dp" />
+
+    <TextView
+        android:id="@+id/store_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="12dp"
+        android:text="Store name"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/product_count"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="13sp"
+        android:paddingBottom="12dp"
+        android:paddingTop="4dp"
+        android:text="24 Products"
+        android:textAlignment="center" />
+
+</LinearLayout>

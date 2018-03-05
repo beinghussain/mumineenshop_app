@@ -1,0 +1,65 @@
+<vector android:height="24dp" android:viewportHeight="512.0"
+    android:viewportWidth="512.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M444.3,490.5H67.7V324c0,-29.7 24.3,-54 54,-54h268.6c29.7,0 54,24.3 54,54V490.5z"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#F4F4F4" android:pathData="M188.1,498.2H73.7V331.7c0,-29.7 24.3,-54 54,-54h60.5L188.1,498.2L188.1,498.2z"/>
+    <path android:fillColor="#FFE600"
+        android:pathData="M67.7,405.6h376.6v84.9h-376.6z"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M116.8,445.5m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M210,455.5l-18.8,13.4l-21,-9.5l-2.3,-23l18.8,-13.4l21,9.5z"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M262,445.5m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M357.7,455.5l-18.8,13.4l-21,-9.5l-2.2,-23l18.8,-13.4l21,9.5z"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M404.2,446.6m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M73.7,392L78.2,392.1"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M90.4,392.1L427.5,393.5"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M433.7,393.5L438.2,393.6"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#EACE03"
+        android:pathData="M444.3,241.9H67.7V75.4c0,-29.7 24.3,-54 54,-54h268.6c29.7,0 54,24.3 54,54V241.9z"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#FFE600" android:pathData="M188.1,249.6H73.7V83c0,-29.7 24.3,-54 54,-54h60.5L188.1,249.6L188.1,249.6z"/>
+    <path android:fillColor="#FFE600"
+        android:pathData="M67.7,157h376.6v84.9h-376.6z"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M116.8,196.9m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M210,206.9l-18.8,13.4l-21,-9.5l-2.3,-23l18.8,-13.4l21,9.5z"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M262,196.9m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M357.7,206.9l-18.8,13.4l-21,-9.5l-2.2,-23l18.8,-13.4l21,9.5z"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M404.2,198m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0"
+        android:strokeColor="#000000" android:strokeWidth="5"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M73.7,143.4L78.2,143.4"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M90.4,143.5L427.5,144.9"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M433.7,144.9L438.2,145"
+        android:strokeColor="#000000" android:strokeWidth="15"/>
+</vector>
